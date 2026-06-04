@@ -295,4 +295,4 @@ Browser
 
 ## License
 
-MIT
+MIT © 2026 [Azhar Tech](https://github.com/ibnehussain)

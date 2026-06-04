@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pycache
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+.env
+
+# SQLite database (generated at runtime)
+backend/shop.db
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+*.swo
